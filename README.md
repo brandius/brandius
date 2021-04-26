@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandius
 - 🏀 I'm pretty obsessed with women's basketball
-- 💻 My background is user experience design (technical and aesthetic) and data analysiis 
+- 💻 My background is user experience design (technical and aesthetic) and data analysis 
 - 🐍 Current focus is to get entrenched in Python
 - 📫 Find me anywhere: @brandius
 
